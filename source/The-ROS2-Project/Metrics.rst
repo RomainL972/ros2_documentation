@@ -19,7 +19,7 @@ At `metrics.ros.org <https://metrics.ros.org>`_ you can find many visualizations
 Periodic Metrics Report
 -----------------------
 
-We periodically publish a metrics report that provides a quantitative view of the ROS community. 
+We periodically publish a metrics report that provides a quantitative view of the ROS community.
 We're collectively learning what to measure and how and evoloving as systems change.
 Please provide feedback! Add your suggestions on how to improve these reports by posting them to `ROS Discourse Site Feedback Category <http://discourse.ros.org/c/site-feedback>`_
 
